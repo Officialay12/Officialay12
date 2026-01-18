@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Developer • Vibe Programmer • Turning coffee into clean UIs React • TypeScript • Tailwind CSS •Building responsive smooth, aesthetic web experiences
+Frontend Developer •Programmer • Turning coffee into clean UIs React • TypeScript • Tailwind CSS •Building responsive smooth, aesthetic web experiences
 
 
 ## 🌐 Socials:
