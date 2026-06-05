@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Developer •Programmer • Turning coffee into clean UIs React • TypeScript • Tailwind CSS •Building responsive smooth, aesthetic web experiences
+Full stack Developer •Programmer • Turning coffee into clean UIs React • TypeScript • Tailwind CSS •Building responsive smooth, aesthetic web experiences
 
 
 ## 🌐 Socials:
